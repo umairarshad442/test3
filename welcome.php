@@ -10,7 +10,7 @@ header("Location:login.php");
 	<title></title>
 </head>
 <body>
-<h2>hello</h2><br>
+<h2>hello! greetings</h2><br>
 <a href="logout.php">logout</a>
 </body>
 </html>
